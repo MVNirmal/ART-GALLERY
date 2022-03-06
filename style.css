@@ -1,0 +1,64 @@
+
+#title{
+    align-items: center;
+    align-content: center;
+    font-size: 100px;
+    text-decoration: underline;
+    font-family:cursive;
+    text-decoration-style:double;
+    text-transform: none;
+
+}
+
+html{
+    align-content: center;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+section{
+background-color: lightgreen;
+margin-top: 50px;
+border: 10px;
+border-style:dashed ;
+}
+
+#img1{
+    height: 600px;
+    width: 800px;
+}
+
+#img2{
+    height: 700px;
+    width: 500px;
+   }
+
+#sec2{
+    margin-top: 50px;
+}
+
+#sec3{
+    margin-top: 50px;
+}
+
+#img3{
+    height: 700px;
+    width: 900px;
+   }
+
+   img{
+       border: 15px;
+       border-style:groove;
+       margin-top: 20px;
+       margin-bottom: 20px;
+    }
+
+    #img4{
+        height: 700px;
+        width: 600px;
+       }
+
+       #img5{
+        height: 700px;
+        width: 900px;
+       }
